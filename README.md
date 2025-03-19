@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrishnaTejNK
-- 👀 I’m interested in exploring different languages and gain insigths about different technologies
-- 🌱 I’m currently learning Computer Science and Engineering in MVJ College OF Enginnering
+- 👀 I’m interested in exploring different languages and gaining insights about different technologies
+- 🌱 I’m currently pursuing my Masters at Dalhousie University
 - 📫 How to reach me https://www.linkedin.com/in/krishna-tej/
 
 <!---
