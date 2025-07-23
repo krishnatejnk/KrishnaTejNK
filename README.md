@@ -1,4 +1,8 @@
-
+- 👋 Hi, I’m @KrishnaTejNK
+- 👀 I’m interested in exploring different languages and gain insigths about different technologies
+- 🌱 I’m currently pursuing my Masters at Dalhousie University
+- 📫 How to reach me https://www.linkedin.com/in/krishna-tej/
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theghoulking.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnatejnk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnatejnk@gmail.com) 
 
